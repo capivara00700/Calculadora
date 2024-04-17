@@ -1,0 +1,45 @@
+body{
+    background: #F9629F;
+}
+
+#principal{
+    margin-top: 7%;
+    height: 490px;
+    width: 330px;
+    background: rgb(252, 194, 204);
+    border-radius: 20px;
+    padding-block: 15px;
+}
+
+#resultado{
+    margin-top: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    height: 40px;
+    border-radius: 10px;
+    background: white;
+    color: rgb(146, 146, 146);
+    font-size: 1.3em;
+    display: flex;
+    justify-items: end;
+}
+
+table{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-custom{
+    border: none;
+    background: #d3a2b1;
+    margin: 3px 4px 3px 0px;
+    font-size: 1.3em;
+    width: 65px;
+    height: 55px;
+}
+
+.btn-custom:hover{
+    background: #FF00FF;
+}
