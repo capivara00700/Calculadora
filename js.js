@@ -7,12 +7,6 @@ function botaõAtivo(valor){
         case '': document.getElementById('resultado').value = ''
         break
     
-        case '<': numero-
-        console.log(numero)
-        document.getElementById('resultado').value = numero
-
-        break
-    
         case '/': document.getElementById('resultado').value += numero
         break
     
