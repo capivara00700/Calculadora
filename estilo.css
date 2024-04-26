@@ -21,8 +21,7 @@ body{
     background: white;
     color: rgb(146, 146, 146);
     font-size: 1.3em;
-    display: flex;
-    justify-items: end;
+    text-align: right;
 }
 
 table{
